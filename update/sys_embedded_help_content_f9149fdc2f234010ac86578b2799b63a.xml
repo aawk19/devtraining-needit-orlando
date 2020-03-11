@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<h1 class="title topictitle1">NeedIt Request List</h1>
+<p>This is a list of all NeedIt Requests assigned to you. Each item in this list is a unique request.</p>
+<h2 class="title sectiontitle">Organizing your Request List</h2>
+<p><a title="Organize your Request List" href="https://docs.servicenow.com/bundle/orlando-application-development/page/build/applications/concept/c_ServiceNowStudio.html" target="_blank" rel="noopener">Organize your Request List</a> by the column headers along the top of the table.</p>
+<h2 class="title sectiontitle">Related Topics</h2>
+<ul class="steps-unordered"><li class="li step">Approving or Rejecting NeedIt Service Desk Requests</li><li class="li step">Prioritizing Requests</li></ul>
+<p> </p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name> NeedIt List - Admin</name>
+        <page>x_58872_needit_needit_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role display_value="x_58872_needit.admin" name="x_58872_needit.admin">168e57609f213200bde5f79ff57fcfb4</role>
+        <role_order>10</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-10 20:44:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f9149fdc2f234010ac86578b2799b63a</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name> NeedIt List - Admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_content_f9149fdc2f234010ac86578b2799b63a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-11 14:04:16</sys_updated_on>
+        <version>all</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=f9149fdc2f234010ac86578b2799b63a"/>
+</record_update>
